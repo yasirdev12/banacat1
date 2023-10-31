@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.bananacateth.fun	TRUE	/	FALSE	1999999999	__ddg1_	TsGTbp5EdT1iRmphC9Lx
+
